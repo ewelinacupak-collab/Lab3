@@ -27,4 +27,5 @@ dlugosc = len(czwarty)
 
 polowa = round((dlugosc / 2),0)
 
-print(czwrty[0,polowa])
+
+print(czwarty[0,polowa])
