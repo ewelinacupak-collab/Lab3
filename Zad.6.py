@@ -1,5 +1,6 @@
 while True:
-    liczba = int(input('Podaj liczba: '))
+    liczba = int(input('Podaj liczbę: '))
     print(liczba)
     if liczba < 0:
+
         break
