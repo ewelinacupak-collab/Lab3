@@ -1,9 +1,2 @@
-def zad5():
-
-    liczba = 80
-    while liczba != 0:
-        print(liczba)
-        liczba -= 4
-    print(liczba)
-
-zad5()
+for i in range (80,-1,-4):
+    print(i)
