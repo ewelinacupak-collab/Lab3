@@ -19,7 +19,7 @@ z = input("Podaj 2 tekst: ")
 
 trzeci = x + z
 
-print(trzeci)
+print("Połączenie tekstów 1 oraz 2:", trzeci)
 
 czwarty = imie + nazwisko
 
@@ -28,5 +28,4 @@ dlugosc = len(czwarty)
 polowa = round((dlugosc // 2),0)
 
 
-print(czwarty[0:polowa])
-
+print("Pierwsza połowa łańcucha powstałego z imienia oraz nazwiska:", czwarty[0:polowa])
