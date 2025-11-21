@@ -12,5 +12,5 @@ print("Znaki co trzeci zaczynając od pierwszego:", Tekst5)
 Tekst6 = Tekst[10::1]
 print("Znaki od dziesiątego do ostatniego:", Tekst6)
 Tekst7 = Tekst[::-1]
-
 print("Znaki od końca do początku:", Tekst7)
+
